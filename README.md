@@ -1,3 +1,4 @@
+![logo](https://github.com/Aman-moniya/Aman-moniya/blob/main/Screenshot%202025-03-16%20183234.png)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
