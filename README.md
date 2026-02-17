@@ -1,4 +1,5 @@
-![logo](https://github.com/Aman-moniya/Aman-moniya/blob/main/Screenshot%202025-03-16%20183234.png)
+<img width="1341" height="332" alt="Screenshot 2026-02-17 210825" src="https://github.com/user-attachments/assets/6b2114df-0d97-4912-9eb9-e3f898b5a13a" />
+
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate MIS Executive from India</h3>
 
@@ -8,6 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">
 </p>
+
 <p align="left">
 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
@@ -16,8 +18,32 @@
          width="40"
          height="40"
          style="margin-right:15px;">
+
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         alt="mysql"
+         width="40"
+         height="40"
+         style="margin-right:15px;">
   </a>
 
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+         alt="Power BI"
+         width="40"
+         height="40"
+         style="margin-right:15px;">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+       alt="Python"
+       width="40"
+       height="40"
+       style="margin-right:15px;">
+</a>
+
+<br>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
          alt="c"
@@ -58,20 +84,7 @@
          style="margin-right:15px;">
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="mysql"
-         width="40"
-         height="40"
-         style="margin-right:15px;">
-  </a>
-
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-         alt="Power BI"
-         width="40"
-         height="40">
-  </a>
+  
 
 </p>
 
