@@ -5,10 +5,7 @@
 
 - ⚡ Fun fact **I am Funny😎**
 
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left">
-</p>
+
 
 <p align="left">
 
@@ -84,7 +81,13 @@
          style="margin-right:15px;">
   </a>
 
-  
+  <h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left">
+
+<h3 align="left">Email id:</h3><a href="amanbghel577@gmail.com" >amanbghel577@gmail.com</a> 
+<h3 align="left">Linkedin Profile</h3><a href="https://www.linkedin.com/in/aman-kumar9837/" >Linkedin Profile</a> 
+</p>
 
 </p>
 
