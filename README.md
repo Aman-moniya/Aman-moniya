@@ -86,7 +86,7 @@
 <p align="left">
 
 <h3 align="left">Email id:</h3><a href="amanbghel577@gmail.com" >amanbghel577@gmail.com</a> 
-<h3 align="left">Linkedin Profile</h3><a href="https://www.linkedin.com/in/aman-kumar9837/" >Linkedin Profile</a> 
+<h3 align="left">Linkedin Profile</h3><a href="https://www.linkedin.com/in/aman-kumar9837/" >Aman Kumar</a> 
 </p>
 
 </p>
